@@ -1,6 +1,5 @@
 .content{
     margin: 0 auto;
-    width: 1216px;
     padding: 0 32px;
 }
 .header_content{
@@ -120,7 +119,6 @@
 .bottom_header{
     height: 21px;
     padding: 16px;
-    width: 1181px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
     background-color: #f6f8fa;
@@ -156,7 +154,6 @@
 .bottom_list{
     height: 46px;
     padding: 8px;
-    width: 1197px;
     border-left: 1px solid;
     border-bottom: 1px solid;
     border-right: 1px solid;
