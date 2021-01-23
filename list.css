@@ -229,7 +229,6 @@ svg:not(:root) {
     flex-wrap: nowrap;
     align-items: center;
     flex-direction: row;
-    width: 752px;
     height: 47px;
     line-height: 47px;
 }
