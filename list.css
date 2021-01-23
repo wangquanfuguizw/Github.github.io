@@ -270,7 +270,6 @@ svg:not(:root) {
 }
 /*尾部*/
 .Footer{
-    width: 1280px;
     padding: 0 16px;
     margin: 0 auto;
     border-top: 1px solid #EAECEF;
